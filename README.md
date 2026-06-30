@@ -19,9 +19,8 @@ This folder is a standalone GitHub Pages site source for CRT-FHE.
 
 Add a source repository link in the site header or README, for example:
 
-- `https://github.com/<your-user>/<your-code-repo>`
+- `https://github.com/anilpradhan-math/crt-fhe-rlwe`
 
 ## Local preview
 
 If you use Jekyll locally, serve the repo root and open the generated site in a browser.
-

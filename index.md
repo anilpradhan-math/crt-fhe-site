@@ -48,6 +48,9 @@ table { display: block; overflow-x: auto; width: 100%; }
   <p>
     Paper: <a href="https://eprint.iacr.org/2024/1105" style="color:#bfdbfe;">https://eprint.iacr.org/2024/1105</a>
   </p>
+  <p>
+    Code: <a href="https://github.com/anilpradhan-math/crt-fhe-rlwe" style="color:#bfdbfe;">https://github.com/anilpradhan-math/crt-fhe-rlwe</a>
+  </p>
 </div>
 
 ## Overview
@@ -137,7 +140,7 @@ See the [Benchmarks](benchmarks) page for the full summary.
 
 - `fheanor/src/crt_fhe` contains the CRT-FHE implementation
 - `fheanor/examples/crt_fhe_basics` contains a minimal end-to-end demo
-- `fheanor/Readme.md` documents the broader `fheanor` library
+- `https://github.com/anilpradhan-math/crt-fhe-rlwe` is the code repository
 - `benchmarks/` contains benchmark notes and comparison material
 
 ## Caveats
@@ -162,4 +165,3 @@ If you use the construction or implementation in your work, cite the paper:
 ## License
 
 This repository is licensed under the MIT license.
-
